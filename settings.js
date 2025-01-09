@@ -2,9 +2,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wYEhWUyg2dtxkUhd0SClmSPd3bIRjeURXboJUexVTb0Andi1UemNlZSJDTjoEehNzUWNWSpwd=21388786749',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @Sahas Md 👋 හෙලෝ! මට සතුටුයි ඔයා ජීවත් වෙලා තියෙන එක! 😊
+
+ඔයාට කෙසේද? කුමක් කරන්න ඕනේද? 🥳
+
+**ඉහත ලින්ක්ස් වලින් චිත්‍රපට බාගන්න පුළුවන්!** 
+
+ඔයාට වෙනත් කුමක් හෝ අවශ්‍යද? 
+
+
+*ආයුබෝවන්!* 🥳I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -23,28 +32,28 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'SAHAS MD',
+  OWNER_NAME: 'ᴍ ʀ  S ᴀ H A S',
+  OWNER_NUMBER: '94768788312',
+  SUDO: '94767768312',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ SAHAS ᴍᴅ',
+  STICKER_AUTHOR: 'ꜱᴀHAS MD',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
+  AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,
-  READ_MESSAGE: false,
+  READ_MESSAGE: true,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
   ANTI_VIEW_ONES: true,
